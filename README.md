@@ -1,6 +1,8 @@
  # Estrutura de projeto TDSP com modelos de documentos e artefatos
 
-Esse repositório fornece uma estrutura de projeto genérica para o Team Data Science Process desenvolvido pela Microsoft. Ele também contém modelos para vários documentos que são recomendados como parte da execução de um projeto de ciência de dados usando TDSP.
+Esse repositório é uma versão em português brasileiro da estrutura de projeto para o Team Data Science Process desenvolvido pela Microsoft, ele fornece uma estrutura de projeto genérica para o TDSP além de conter modelos para vários documentos que são recomendados como parte da execução de um projeto de ciência de dados usando essa metodologia.
+
+**NOTA:** O nome de todos os diretórios foram mantidos em inglês, apenas os documentos/artefatos foram traduzidos e adaptados.
 
 TDSP é uma metodologia de ciência de dados ágil e iterativa para melhorar a colaboração e aprendizado em equipe. Ela possui uma definição de ciclo de vida, estrutura de projeto padrão, modelos de artefatos e ferramentas para ciência de dados.
 
