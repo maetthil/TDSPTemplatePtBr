@@ -12,7 +12,7 @@
 
 ## Equipe
 * Quem está nesse projeto:
-	* Lumini:
+	* Empresa:
 		* Project lead
 		* PM
 		* Data scientist(s)
