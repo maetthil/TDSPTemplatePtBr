@@ -1,0 +1,1 @@
+# Diagrama representando a arquitetura do sistema
