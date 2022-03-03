@@ -2,8 +2,7 @@
 
 Esse repositório fornece uma estrutura de projeto genérica para o Team Data Science Process desenvolvido pela Microsoft. Ele também contém modelos para vários documentos que são recomendados como parte da execução de um projeto de ciência de dados usando TDSP.
 
-[Team Data Science Process (TDSP)](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview) é uma metodologia de ciência de dados ágil e iterativa para melhorar a colaboração e aprendizado em equipe. Ela possui uma definição de ciclo de vida, estrutura de projeto padrão, modelos de artefatos e [ferramentas](https://github.com/Azure/Azure-TDSP-Utilities) para ciência de dados.
-
+TDSP é uma metodologia de ciência de dados ágil e iterativa para melhorar a colaboração e aprendizado em equipe. Ela possui uma definição de ciclo de vida, estrutura de projeto padrão, modelos de artefatos e ferramentas para ciência de dados.
 
 **NOTA:** Nessa estrutura de diretórios, a pasta **Sample_Data  não deve conter arquivos de dados brutos grandes**. Apenas pequenas amostras de dados, que podem ser utilizadas para testar o código.
 
